@@ -1,0 +1,22 @@
+body {
+  background-color: cyan;
+}
+.loginLink {
+  color: white;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: blueviolet;
+  border-radius: 5px;
+  
+}
+p{
+    margin-top: 30px;
+}
+.btn-primary{
+    width: 100%;
+}
+
